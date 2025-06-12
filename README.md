@@ -1,5 +1,6 @@
 # ollama-llm-puller
-这是一个方便的调试工具，他能从公开的ollama llm服务器在线调用部署好的语言大模型 点击右边release下载👉👉
+# 点击右边release下载👉👉
+这是一个方便的调试工具，他能从公开的ollama llm服务器在线调用部署好的语言大模型 
 
 从这里获取公开api https://freeollama.oneplus1.top/
 # K博士ollama-llm-puller 免责声明与使用协议
